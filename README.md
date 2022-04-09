@@ -1,2 +1,2 @@
-# desafio-de-github-da-dio
-desafio da dio para criar meu primeiro repositório no github.
+# meu primeiro projeto javascript.
+um contador simples criado apartir do curso de introdução ao javascript da Digital Innovation One
